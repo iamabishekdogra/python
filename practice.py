@@ -32,7 +32,7 @@ def print_len(list):
 
 print_len(cities)
 
-"""
+
 
 # write a funtion to check a no is odd or even
 
@@ -45,3 +45,5 @@ def check_no(n):
        
         
 print(check_no(4))
+
+"""
